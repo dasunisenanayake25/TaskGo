@@ -1,5 +1,6 @@
 function greet() {
-    console.log("Hello from TaskGo!");
+    console.log("Hello TaskGo!");
+
 }
 
 greet();
